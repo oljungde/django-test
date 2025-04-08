@@ -1,1 +1,0 @@
-# User Django Test Projekt
